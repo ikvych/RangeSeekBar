@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--#region Typography-->
+    <dimen name="range_seek_bar_background_height">12dp</dimen>
+    <dimen name="range_seek_bar_foreground_height">16dp</dimen>
+    <dimen name="range_seek_bar_indicator_disable">20dp</dimen>
+    <dimen name="range_seek_bar_indicator_active">32dp</dimen>
+    <dimen name="range_seek_bar_zone">40dp</dimen>
+    <dimen name="range_seek_bar_text_size">16sp</dimen>
+    <!--#endregion-->
+</resources>

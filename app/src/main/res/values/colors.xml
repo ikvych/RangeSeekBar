@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="seek_bar_indicator_active">#673AB7</color>
+    <color name="seek_bar_indicator_disable">#FF9800</color>
+    <color name="seek_bar_foreground_left">#01579B</color>
+
+    <color name="seek_bar_active_indicator_top">#7E57C2</color>
+    <color name="seek_bar_active_indicator_bottom">#311B92</color>
+
+    <color name="seek_bar_disable_indicator_top">#5C6BC0</color>
+    <color name="seek_bar_disable_indicator_bottom">#1A237E</color>
+
+</resources>

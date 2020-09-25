@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeSeekBar">
+        <attr name="gv_mode" format="enum">
+            <enum name="width" value="0"/>
+            <enum name="height" value="1"/>
+        </attr>
+        <attr name="mrsb_min_value" format="integer"/>
+        <attr name="mrsb_max_value" format="integer"/>
+        <attr name="mrsb_background_height" format="dimension"/>
+        <attr name="mrsb_background_is_rounded" format="boolean"/>
+        <attr name="mrsb_background_color" format="color"/>
+        <attr name="mrsb_background_gradient_left" format="color"/>
+        <attr name="mrsb_background_gradient_right" format="color"/>
+        <attr name="mrsb_foreground_height" format="color"/>
+        <attr name="mrsb_foreground_color" format="color"/>
+        <attr name="mrsb_foreground_gradient_left" format="color"/>
+        <attr name="mrsb_foreground_gradient_right" format="color"/>
+        <attr name="mrsb_thumb_color_active" format="color"/>
+        <attr name="mrsb_thumb_color_disable" format="color"/>
+        <attr name="mrsb_thumb_color_gradient_top_active" format="color"/>
+        <attr name="mrsb_thumb_color_gradient_bottom_active" format="color"/>
+        <attr name="mrsb_thumb_color_gradient_top_disable" format="color"/>
+        <attr name="mrsb_thumb_color_gradient_bottom_disable" format="color"/>
+        <attr name="mrsb_thumb_size_active" format="dimension"/>
+        <attr name="mrsb_thumb_size_disable" format="dimension"/>
+        <attr name="mrsb_value_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
